@@ -2,9 +2,7 @@
 <!-- ABOUT  -->
 ## About
 
-Name: Megan Powers
-
-Student ID: 21146284
+https://www.youtube.com/watch?v=bM0J1MseOfg
 
 <!-- INSTRUCTIONS -->
 ## Instructions for Running
